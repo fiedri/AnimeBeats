@@ -67,7 +67,7 @@
         <p class="metadata anime" translate="no">Anime: {anime}</p>
       {/if}
       {#if episodios}
-      <p class="metadata">Episodios: {episodios}</p>
+      <p class="metadata">Eps: {episodios}</p>
         
       {/if}
       {#if version}
