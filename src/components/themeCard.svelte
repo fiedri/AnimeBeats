@@ -61,7 +61,7 @@
       <i class="fa-solid fa-play"></i>
     </button>
     <div class="text-content">
-      <h3 translate="no" class="oswald">{titulo}{numero? ` - OP:${numero}`: ""}</h3>
+      <h3 translate="no" class="oswald">{titulo}{numero? ` - N:${numero}`: ""}</h3>
       <p class="metadata artist" translate="no">{artista}</p>
       {#if anime}
         <p class="metadata anime" translate="no">Anime: {anime}</p>
